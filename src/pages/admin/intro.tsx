@@ -23,23 +23,6 @@ const Intro = () => {
           <Center>
             <Title order={2}>Welcome to File Air</Title>
           </Center>
-          <Text>
-            If you enjoy File Air please ⭐️ it on{" "}
-            <Anchor
-              target="_blank"
-              href="https://github.com/stonith404/pingvin-share"
-            >
-              GitHub
-            </Anchor>{" "}
-            or{" "}
-            <Anchor
-              target="_blank"
-              href="https://github.com/sponsors/stonith404"
-            >
-              buy me a coffee
-            </Anchor>{" "}
-            if you want to support my work.
-          </Text>
           <Text>Enough talked, have fun with File Air!</Text>
           <Text mt="lg">How to you want to continue?</Text>
           <Stack>
